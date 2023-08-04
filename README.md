@@ -10,6 +10,7 @@ Machine unlearning performs the task of deletion of datapoints from a trained mo
 nb1 MNIST-like dataset of 70,000 28x28 labeled fashion images.
  
 The images are 28x28 NumPy arrays, with pixel values ranging from 0 to 255. The labels are an array of integers, ranging from 0 to 9. These correspond to the class of clothing the image represents:
+
 Label Class
 	•	0 T-shirt/top
 	•	1 Trouser
