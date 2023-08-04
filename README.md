@@ -33,7 +33,7 @@ After this I have written the attack class and method before training the model 
 1)    Accuracy score vs Epsilon, here we see as the number of epsilon will increase our accuracy will reduce.
 
 
-2)    The second output shows per epsilon step an how on the 16th epsilon we achieve our goal of fooling the system. 
+ 2)    The second output shows per epsilon step an how on the 16th epsilon we achieve our goal of fooling the system. 
 
  
 3)    Compare it w epsilon 1 vs 16: Here we see how fake label is given with confidence.
